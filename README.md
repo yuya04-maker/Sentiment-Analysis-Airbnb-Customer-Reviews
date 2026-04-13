@@ -44,6 +44,10 @@ The model performs well overall but struggles with minority classes (neutral and
 - Leverage positive feedback themes (cleanliness, staff friendliness) in marketing
 - Monitor text-based sentiment alongside ratings for more accurate customer insights
 
+## Limitations
+- Class imbalance affects performance on neutral and negative classes
+- Sentiment tools like VADER may misinterpret sarcasm or context
+
 ## Files
 - Jupyter Notebook with full analysis
 - Dataset (TripAdvisor hotel reviews)
