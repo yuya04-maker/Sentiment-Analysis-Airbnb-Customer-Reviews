@@ -1,5 +1,8 @@
 # Sentiment Analysis of Airbnb Customer Reviews
 
+## Project Walkthrough Video
+https://www.loom.com/share/c937be54cd7b4ed0a423a27b7731c29a 
+
 ## Overview
 This project applies Natural Language Processing (NLP) and Machine Learning to analyze customer sentiment from airbnb reviews. The goal is to classify reviews as positive, negative, or neutral based on textual data and extract meaningful insights to improve customer experience.
 
